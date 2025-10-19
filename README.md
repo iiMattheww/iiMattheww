@@ -58,18 +58,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,html,css,javascript,python,tailwind,bootstrap,react,vite,vscode,webstorm&perline=14" />
   </a>
 </p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=gmail,discord&perline=14" />
-</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
