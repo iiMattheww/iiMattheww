@@ -40,7 +40,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🌱 I’m currently developing my skills in **Front-End WEB Development** by Self
-- 🎓 I'm on track for learning more about React
+- 🎓 I'm on track for deep diver into React
 - ✉️ You can shoot me an email at **matin.dev22@gmail.com**! I'll try to respond as soon as I can.
 - 📫 Feel free to reach me via - https://t.me/iimattheww
 - 🤝 I’m currently open for an new job opportunity
